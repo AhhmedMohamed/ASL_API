@@ -1,0 +1,30 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E303" />
+          <option value="E302" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="charity.tests.django" />
+          <option value="charity.views.rest_framework" />
+          <option value="charity.views.*" />
+          <option value="rest_framework" />
+          <option value="charity.admin.django" />
+          <option value="charity.apps.django" />
+          <option value="psutil" />
+          <option value="main.*" />
+          <option value="int.split" />
+          <option value="sin__cos__sin.Generalization_for_Gradient_Descent" />
+          <option value="Generalization_for_Gradient_Descent" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
